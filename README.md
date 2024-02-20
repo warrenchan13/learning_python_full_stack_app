@@ -1,1 +1,3 @@
-# learning_python_full_stack_app
+Learning Python
+
+Creating Fullstack app w/ Python + JavaScript for fun
