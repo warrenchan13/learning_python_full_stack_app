@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const contactForm = ({ existingContact = {}, updateCallback }) => {
+const ContactForm = ({ existingContact = {}, updateCallback }) => {
   const [firstName, setFirstName] = useState(existingContact.firstName || "");
   const [lastName, setLastName] = useState(existingContact.lastName || "");
   const [email, setEmail] = useState(existingContact.email || "");
@@ -68,4 +68,4 @@ const contactForm = ({ existingContact = {}, updateCallback }) => {
   );
 };
 
-export default contactForm;
+export default ContactForm;
