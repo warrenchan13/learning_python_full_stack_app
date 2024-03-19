@@ -2,7 +2,7 @@
 
 Creating Fullstack app w/ Python + JavaScript for fun\
 **Frontend:** Javascript, HTML, CSS, and React\
-**Backend:** Python, Flask, and SQLAlchemy
+**Backend:** Python, Flask, SQLAlchemy, and SQLite
 
 # Homepage
 <img width="768" alt="Home Page" src="https://github.com/warrenchan13/learning_python_full_stack_app/assets/113927218/d9404819-9cf0-469b-b9d2-61240b07f493">
